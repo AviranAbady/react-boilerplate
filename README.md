@@ -1,7 +1,5 @@
 # React Boilerplate
 
-This is a work in progress! If you stumbled upon this repo, take into consideration it is not ready yet.
-
 [Demo](https://react-nodejs-boilerplate-demo.herokuapp.com/) of the boilerplate in action.
 
 This is a [React](https://facebook.github.io/react/) client, [Node.js](https://nodejs.org/)
@@ -28,3 +26,8 @@ npm install
 Use
 ====
 npm start
+
+
+Please note
+============
+This is a work in progress :)
